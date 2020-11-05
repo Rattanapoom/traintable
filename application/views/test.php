@@ -1,0 +1,1 @@
+INSERT INTO `timetable` (`train_id`, `s_station`, `s_out`, `h_in`, `h_out`, `f_station`, `f_in`, `type`) VALUES ('234', 'สุรินทร์', '05:20:00', '05:53:00', '05:54:00', 'กรุงเทพฯ', '14:15:00', 'รถธรรมดา')
